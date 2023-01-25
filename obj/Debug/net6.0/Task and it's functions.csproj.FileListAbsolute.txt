@@ -1,0 +1,15 @@
+C:\Users\Meet  Kerasiya\source\repos\Task and it's functions\Task and it's functions\bin\Debug\net6.0\Task and it's functions.exe
+C:\Users\Meet  Kerasiya\source\repos\Task and it's functions\Task and it's functions\bin\Debug\net6.0\Task and it's functions.deps.json
+C:\Users\Meet  Kerasiya\source\repos\Task and it's functions\Task and it's functions\bin\Debug\net6.0\Task and it's functions.runtimeconfig.json
+C:\Users\Meet  Kerasiya\source\repos\Task and it's functions\Task and it's functions\bin\Debug\net6.0\Task and it's functions.dll
+C:\Users\Meet  Kerasiya\source\repos\Task and it's functions\Task and it's functions\bin\Debug\net6.0\Task and it's functions.pdb
+C:\Users\Meet  Kerasiya\source\repos\Task and it's functions\Task and it's functions\obj\Debug\net6.0\Task and it's functions.csproj.AssemblyReference.cache
+C:\Users\Meet  Kerasiya\source\repos\Task and it's functions\Task and it's functions\obj\Debug\net6.0\Task and it's functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meet  Kerasiya\source\repos\Task and it's functions\Task and it's functions\obj\Debug\net6.0\Task and it's functions.AssemblyInfoInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\Task and it's functions\Task and it's functions\obj\Debug\net6.0\Task and it's functions.AssemblyInfo.cs
+C:\Users\Meet  Kerasiya\source\repos\Task and it's functions\Task and it's functions\obj\Debug\net6.0\Task and it's functions.csproj.CoreCompileInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\Task and it's functions\Task and it's functions\obj\Debug\net6.0\Task and it's functions.dll
+C:\Users\Meet  Kerasiya\source\repos\Task and it's functions\Task and it's functions\obj\Debug\net6.0\refint\Task and it's functions.dll
+C:\Users\Meet  Kerasiya\source\repos\Task and it's functions\Task and it's functions\obj\Debug\net6.0\Task and it's functions.pdb
+C:\Users\Meet  Kerasiya\source\repos\Task and it's functions\Task and it's functions\obj\Debug\net6.0\Task and it's functions.genruntimeconfig.cache
+C:\Users\Meet  Kerasiya\source\repos\Task and it's functions\Task and it's functions\obj\Debug\net6.0\ref\Task and it's functions.dll
